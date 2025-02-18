@@ -1,0 +1,19 @@
+name: cluster_deputados
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - black
+  - flake8
+  - isort
+  - pandas
+  - numpy
+  - requests
+  - boto3  # S3
+  - duckdb
+  - pip
+  - pip:
+      - python-dotenv
+      - awscli
+      - mkdocs
+      - -e .
