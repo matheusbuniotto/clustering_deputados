@@ -17,7 +17,6 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
     handlers=[
-        logging.FileHandler("../logs/deputies_data_collection.log"),
         logging.StreamHandler(),
     ],
 )
@@ -34,7 +33,7 @@ class DeputiesDataCollector:
         self,
         legislature: int = 57,
         max_workers: int = 10,
-        output_dir: str = "data/raw",
+        output_dir: str = "/bronze",
         sleep_time: float = 1.33,
     ):
         """Initialize the data collector."""
@@ -542,7 +541,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     data_collector = DeputiesDataCollector(
-        legislature=57, output_dir="../data/raw", sleep_time=1.0
+        legislature=57, output_dir="data/bronze", sleep_time=2
     )
 
     if args.task == "deputies":
