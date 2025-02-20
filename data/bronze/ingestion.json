@@ -1,0 +1,23 @@
+{
+    "deputies": {
+        "csv_file_name": "deputies_*.csv",
+        "query": "SELECT deputy_id, state, email, party AS political_party, photo_url FROM read_csv_auto('{csv_file_path}', delim=',', header=True)",
+        "output_table_name": "d_deputies.csv"
+    },
+    "expenses": {
+        "csv_file_name": "expenses_*.csv",
+        "query": "SELECT \
+            deputy_id, \
+            valorDocumento AS document_amount, \
+            dataDocumento::DATE AS document_date, \
+            tipoDespesa AS expense_type, \
+            cnpjCpfFornecedor AS supplier_cnpj, \
+            nomeFornecedor AS supplier_name, \
+            parcela AS installment, \
+            tipoDocumento AS document_type, \
+            mes AS month, \
+            ano AS year \
+            FROM read_csv_auto('{csv_file_path}', delim=',', header=True, (strict_mode=false))",
+        "output_table_name": "f_expenses.csv"
+    }
+}
