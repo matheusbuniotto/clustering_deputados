@@ -1,3 +1,11 @@
+# Ignore all .csv  and env folders 
 *.csv
-# ignore folders
+
+# keep folders
 !*/
+
+# Ienv
+.venv/
+
+# vscode 
+.vscode/
