@@ -1,5 +1,3 @@
-# Ignore all .csv files
 *.csv
-
-# Ensure directories are still tracked
+# ignore folders
 !*/
