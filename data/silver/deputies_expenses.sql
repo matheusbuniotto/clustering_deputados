@@ -11,4 +11,3 @@ SELECT
 FROM deputies_db.bronze.dim_deputies AS deps
 LEFT JOIN deputies_db.bronze.fact_expenses AS exp ON exp.deputy_id = deps.deputy_id
 GROUP BY ALL
-LIMIT 5

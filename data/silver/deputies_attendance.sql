@@ -4,7 +4,7 @@ SELECT
     deps.deputy_id,
     deps.name,
     deps.party,
-    at.presencas AS attendace_count,
+    at.presencas AS attendance_count,
     at.ausencias_justificadas AS justified_absence_count,
     at.ausencias_nao_justificadas AS unjustified_absence_count,
     at.total_dias AS total_days,

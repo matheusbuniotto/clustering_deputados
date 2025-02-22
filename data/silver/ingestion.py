@@ -22,6 +22,11 @@ for sql_file in os.listdir('.'):
         # Save the result to the silver schema
         con.execute(f"CREATE OR REPLACE TABLE silver.{table_name} AS SELECT * FROM result_df;")
         print(f"File {sql_file} processed and saved the result to table silver.{table_name}")
+        
+        # Export the result to a Parquet file partitioned by party
+        parquet_path = f"{table_name}_parquet"
+        con.execute(f"COPY (SELECT * FROM silver.{table_name}) TO '{parquet_path}' (FORMAT PARQUET);")
+        print(f"Exported table silver.{table_name} to Parquet files partitioned by party at {parquet_path}")
 
 # Close the DuckDB connection
 con.close()
