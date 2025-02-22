@@ -1,0 +1,24 @@
+{
+  "csv_files": [
+    {
+      "start_name": "class",
+      "table_name": "partidos_classificados"
+    },
+    {
+      "start_name": "deputies",
+      "table_name": "dim_deputies"
+    },
+    {
+      "start_name": "attendance",
+      "table_name": "fact_attendace"
+    },
+    {
+      "start_name": "expense",
+      "table_name": "fact_expenses"
+    },
+    {
+      "start_name": "proposition",
+      "table_name": "fact_propositions"
+    }
+  ]
+}
