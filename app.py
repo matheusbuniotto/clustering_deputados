@@ -28,7 +28,7 @@ st.title('Deputy Recommender System')
 
 # Sidebar navigation with selectbox
 st.sidebar.title("Navigation")
-page = st.sidebar.selectbox("Go to", ["Recommender", "Chat with Dataset", "Model Explanation"])
+page = st.sidebar.selectbox("Go to", ["Recommender", "Model Explanation"])
 
 if page == "Recommender":
     # Dropdown menu for selecting a deputy
