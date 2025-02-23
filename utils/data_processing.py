@@ -1,5 +1,9 @@
 import pandas as pd
 import json
+import os
+
+from gpt_classifier import classify_party
+
 
 def read_parquet_s3(bucket_name='proj-deputados-fiap', file_path='gold/deputies_consolidated_metrics_parquet'):
     bucket_name = bucket_name
@@ -33,40 +37,41 @@ enriched_df = enrich_data_with_gpt_classification(df, gpt_classifications).drop(
 
 
 def feature_engineer(enriched_df) -> pd.DataFrame:
+    enriched_df = enriched_df.copy()
+        
+    max_days = enriched_df.total_days.max()
     
-    return None
+    # JSON Path
+    party_ideology_map_path = '../data/party_ideology_map.json'
+    
+    # Verifica se o arquivo existe
+    if os.path.exists(party_ideology_map_path):
+  
+        with open(party_ideology_map_path, 'r') as f:
+            party_ideology_map = json.load(f)
+    else:
+        # Run GPT function if the map doestn exist
+        parties_to_classify = enriched_df[enriched_df['party_classification'].isnull()]['party'].unique()
+        party_ideology_map = {party: classify_party(party) for party in parties_to_classify}
+        
+        # Save dict as JSON
+        with open(party_ideology_map_path, 'w') as f:
+            json.dump(party_ideology_map, f, ensure_ascii=False, indent=4)
+    
+    enriched_df = enriched_df.assign(
+        cost_per_proposition=(enriched_df['total_expenses'] / enriched_df['proposition_count']).round(1),
+        mean_expend_per_document=(enriched_df['total_expenses'] / enriched_df['total_documents']).round(1),
+        share_taxi_toll_parking=(enriched_df['taxi_toll_parking'] / enriched_df['total_expenses']).round(3),
+        share_flight_passages=(enriched_df['flight_passages'] / enriched_df['total_expenses']).round(3),
+        share_office_maintenance=(enriched_df['office_maintenance'] / enriched_df['total_expenses']).round(3),
+        share_fuel_lubricants=(enriched_df['fuel_lubricants'] / enriched_df['total_expenses']).round(3),
+        attendance_rate = (enriched_df['attendance_count'] / max_days).round(3),
+        party_classification = enriched_df["party_classification"].fillna(
+            enriched_df["party"].map(party_ideology_map))  
+    )
+    
+    return enriched_df 
 
+df_ = feature_engineer(enriched_df)
 
-col_to_model = ['total_expenses', 'attendance_rate',
-                'proposition_count', 'cost_per_proposition',
-                'party_classification', 'party']
-
-max_days = enriched_df.total_days.max()
-enriched_df.assign(
-    cost_per_proposition=(enriched_df['total_expenses'] / enriched_df['proposition_count']).round(1),
-    mean_expend_per_document=(enriched_df['total_expenses'] / enriched_df['total_documents']).round(1),
-    share_taxi_toll_parking=(enriched_df['taxi_toll_parking'] / enriched_df['total_expenses']).round(3),
-    share_flight_passages=(enriched_df['flight_passages'] / enriched_df['total_expenses']).round(3),
-    share_office_maintenance=(enriched_df['office_maintenance'] / enriched_df['total_expenses']).round(3),
-    share_fuel_lubricants=(enriched_df['fuel_lubricants'] / enriched_df['total_expenses']).round(3),
-    attendance_rate = (enriched_df['attendance_count'] / max_days).round(3)    
-)
-
-
-parties_to_classify=enriched_df[enriched_df['party_classification'].isnull()]['party'].unique()
-
-parties_to_classify
-
-
-from gpt_classifier import classify_party
-
-party_ideology_map = {party: classify_party(party) for party in parties_to_classify}
-
-# **Step 3: Apply classification to fill missing values**
-df["ideology"] = df["party"].map(party_ideology_map)
-
-party_ideology_map
-
-enriched_df["party_classification"] = enriched_df["party_classification"].fillna(
-    enriched_df["party"].map(party_ideology_map))
-
+df_.to_csv('../data/enriched_df.csv', index=False)
