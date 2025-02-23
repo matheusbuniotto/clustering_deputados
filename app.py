@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 from model import DeputyRecommender
 import plotly.express as px
 import plotly.graph_objects as go
