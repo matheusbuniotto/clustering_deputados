@@ -1,0 +1,4506 @@
+[
+    {
+        "deputy_id": 62881,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 66385,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 66828,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 68720,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 69871,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 72442,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 73433,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 73441,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 73486,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 73531,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 73579,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "technological",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 73604,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 73692,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 73701,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 73768,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 73778,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 73801,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 73806,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74041,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74043,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74044,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74052,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 74057,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 74060,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 74075,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 74079,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 74084,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74090,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74095,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74141,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74156,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74158,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "technological",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 74159,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74160,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 74161,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74171,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74253,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 74262,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 74270,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74273,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 74283,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74299,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 74317,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 74356,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 74371,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74374,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 74376,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74383,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 74398,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 74428,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 74454,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74467,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 74478,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 74537,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74550,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "technological",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 74554,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74574,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 74585,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74646,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74696,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 74784,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 74848,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 74856,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 74858,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 80815,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 81055,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 88256,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 91228,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 92102,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 92346,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 92699,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 92776,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 98057,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 98148,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 98615,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 100689,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 103758,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 104552,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 107283,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 107970,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 109429,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 115200,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 116379,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 121948,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 122158,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 122195,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "technological",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 122974,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 123086,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 123756,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 128760,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 133439,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 133810,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 136811,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 137070,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 138286,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 139285,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 141391,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 141398,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "technological",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 141408,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 141411,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 141421,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 141431,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 141450,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 141456,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 141458,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 141459,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 141464,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 141470,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 141480,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 141485,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 141487,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 141516,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 141518,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 141531,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 141555,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 143632,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 143942,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 150418,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 152605,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 153423,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 156190,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 157130,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 160161,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160510,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "technological",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 160512,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160517,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 160518,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 160527,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160535,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160538,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 160541,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 160545,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160548,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160552,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 160553,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160556,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160558,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160559,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 160569,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 160575,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 160588,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160591,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 160592,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 160598,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 160599,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "technological",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 160600,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 160601,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 160604,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 160610,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 160629,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160632,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160635,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160640,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 160642,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 160665,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160666,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 160673,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160674,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 160758,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 160976,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 161440,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 161550,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 162067,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 162332,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 163321,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 164360,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 165470,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 166402,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 171139,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 171617,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 171786,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178829,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178835,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 178843,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 178854,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 178857,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 178858,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 178860,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178866,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178871,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 178873,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178876,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "technological",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 178881,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 178884,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "environmental",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 178887,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 178895,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 178896,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178908,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178909,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178910,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 178927,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178929,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 178931,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178933,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 178934,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 178937,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 178943,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178945,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "environmental",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 178946,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 178947,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 178954,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178963,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178964,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 178966,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178970,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 178972,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178975,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 178983,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 178985,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178986,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "environmental",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178987,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178989,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178992,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 178993,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 178997,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 179000,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 179001,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 180214,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 182146,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 188097,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "technological",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 191923,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 198197,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "cultural",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 198783,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204351,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204355,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204356,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204358,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204360,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204361,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204362,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204364,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204365,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204367,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "environmental",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204368,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204369,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204372,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204374,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.1
+        }
+    },
+    {
+        "deputy_id": 204378,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204379,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204387,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204388,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 204390,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204391,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204394,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 204395,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204396,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204398,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204404,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204406,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204407,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204408,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "environmental",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204409,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204410,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204411,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 204412,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 204416,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204419,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 204422,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 204423,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204426,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204427,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "cultural",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 204431,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "technological",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 204433,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204436,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204441,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204444,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 204445,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204449,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204450,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204453,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204455,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 204456,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204457,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204459,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204460,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204462,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204464,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204472,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204473,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 204474,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204476,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204479,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204480,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204481,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204482,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204485,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204486,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204488,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204489,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204491,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204492,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 204494,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204495,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204497,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204498,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204501,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204504,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204506,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.1
+        }
+    },
+    {
+        "deputy_id": 204507,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 204508,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204511,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204512,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 204515,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204517,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 204518,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204520,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204524,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204525,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204526,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 204528,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204531,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 204533,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 204534,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204535,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204536,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 204539,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 204540,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 204541,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "environmental",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204549,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204550,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204553,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204557,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 204559,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204560,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 204563,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204566,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204567,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204570,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204571,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204572,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 204573,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 204574,
+        "classification": {
+            "ideology": "conservative",
+            "agenda_category": "cultural",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 205476,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 205550,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 205865,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 206018,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 209189,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 209787,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 210989,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 212625,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 213274,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 214694,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 215043,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 218086,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 219585,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "technological",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220008,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220526,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220527,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220528,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220529,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220530,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220531,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220532,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220533,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220534,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220536,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220537,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220538,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220539,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220540,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220542,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220543,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220544,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220545,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220546,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220547,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220548,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220549,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220550,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220551,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220552,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220553,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220554,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220555,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220556,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220557,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220558,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220559,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220560,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220561,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220563,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220564,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220565,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220566,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220567,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "environmental",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220568,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220569,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220570,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220571,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220572,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220573,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220574,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220575,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220576,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220577,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220578,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220579,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220580,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220581,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220582,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220583,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220584,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220585,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220586,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220587,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220588,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220589,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220590,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220591,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220592,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220593,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220594,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220595,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220596,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220597,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220598,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220599,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220600,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220601,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220602,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220603,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220604,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220605,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220606,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220607,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220608,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220609,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220610,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220611,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220612,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220613,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220614,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220615,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220616,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220617,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220618,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220619,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220620,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220621,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220622,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220623,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220624,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220625,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220626,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220627,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220628,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220629,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220630,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220631,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "technological",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220632,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220633,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "environmental",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220635,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220638,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220639,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220640,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220641,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220642,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220644,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220645,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220647,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "technological",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220648,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220649,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220650,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220651,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220652,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220653,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220654,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220655,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220656,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220657,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220658,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220659,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220660,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220661,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220662,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220663,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220664,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220665,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220666,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220667,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220668,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220669,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220670,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220671,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220672,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220673,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220674,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220675,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220676,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220677,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220681,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220682,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220683,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220684,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220685,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220686,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220687,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220688,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220689,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220690,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220691,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220692,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220693,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220694,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220695,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220696,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220697,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220698,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 220699,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220700,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220701,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 220702,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220703,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 220704,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220706,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220707,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220708,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220712,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "technological",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220713,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 220714,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "environmental",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 220715,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 221148,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 221328,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 221338,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 221339,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 221378,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 222142,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 222429,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 223128,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 223398,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 224117,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 224333,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 225386,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "technological",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 226179,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 226708,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 226837,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "environmental",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 227275,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 227310,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 227323,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 227324,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 227370,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 227401,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 227433,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 227660,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 227800,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 227991,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 228272,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 228616,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 228797,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "environmental",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 228837,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 228941,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.3
+        }
+    },
+    {
+        "deputy_id": 229069,
+        "classification": {
+            "ideology": "conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 229082,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 229106,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "cultural",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 229112,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 229225,
+        "classification": {
+            "ideology": "conservative",
+            "agenda_category": "social",
+            "populist_elements": 0.8
+        }
+    },
+    {
+        "deputy_id": 229259,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 229333,
+        "classification": {
+            "ideology": "moderate_progressive",
+            "agenda_category": "economic",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 229432,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "social",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 229585,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.7
+        }
+    },
+    {
+        "deputy_id": 229939,
+        "classification": {
+            "ideology": "moderate_conservative",
+            "agenda_category": "economic",
+            "populist_elements": 0.2
+        }
+    },
+    {
+        "deputy_id": 230088,
+        "classification": {
+            "ideology": "progressive",
+            "agenda_category": "social",
+            "populist_elements": 0.5
+        }
+    },
+    {
+        "deputy_id": 230177,
+        "classification": {
+            "ideology": "centrist",
+            "agenda_category": "cultural",
+            "populist_elements": 0.2
+        }
+    }
+]

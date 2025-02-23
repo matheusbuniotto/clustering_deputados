@@ -32,6 +32,6 @@ if __name__ == "__main__":
 
     bucket_name = "proj-deputados-fiap"
     s3_base_folder = ""
-    ignore_folders = args.ignore  # Get folders to ignore from command-line arguments
+    ignore_folders = args.ignore
 
     upload_to_s3(bucket_name, s3_base_folder, ignore_folders)

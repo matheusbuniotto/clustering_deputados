@@ -1,6 +1,7 @@
-def read_parquet_s3(bucket_name='proj-deputados-fiap', file_path='gold/deputies_consolidated_metrics_parquet'):
-    import pandas as pd
+import pandas as pd
+import json
 
+def read_parquet_s3(bucket_name='proj-deputados-fiap', file_path='gold/deputies_consolidated_metrics_parquet'):
     bucket_name = bucket_name
     file_path = file_path
 
@@ -11,17 +12,61 @@ def read_parquet_s3(bucket_name='proj-deputados-fiap', file_path='gold/deputies_
     return df
 
 
-def clean_data(df):
-    import pandas as pd
-    df = df.copy()
+def enrich_data_with_gpt_classification(main_df, classification_df) -> pd.DataFrame:
     
-    # Clean numerical columns
-    num_cols = ['total_expenses', 'attendance_rate', 'proposition_count']
-    for col in num_cols:
-        df[col] = pd.to_numeric(df[col].str.replace('[^\d.]', '', regex=True), errors='coerce')
+    # Create a DataFrame from the JSON data
+    normalized_classification = pd.json_normalize(classification_df['classification'])
     
-    # Handle missing values
-    df['attendance_rate'] = df['attendance_rate'].fillna(df['attendance_rate'].mean())
-    df['proposition_count'] = df['proposition_count'].fillna(0)
+    classification_df = classification_df.drop(columns=['classification'])
     
-    return df
+    classification_df = pd.concat([classification_df, normalized_classification], axis=1)
+
+    final_df = main_df.merge(classification_df, on='deputy_id', how='left')
+    return final_df
+
+
+
+df = read_parquet_s3(file_path='gold/deputies_consolidated_metrics_parquet')
+gpt_classifications = read_parquet_s3(file_path='gold/classified_deputies.parquet')
+
+enriched_df = enrich_data_with_gpt_classification(df, gpt_classifications).drop(columns=['propositions_list'])
+
+
+def feature_engineer(enriched_df) -> pd.DataFrame:
+    
+    return None
+
+
+col_to_model = ['total_expenses', 'attendance_rate',
+                'proposition_count', 'cost_per_proposition',
+                'party_classification', 'party']
+
+max_days = enriched_df.total_days.max()
+enriched_df.assign(
+    cost_per_proposition=(enriched_df['total_expenses'] / enriched_df['proposition_count']).round(1),
+    mean_expend_per_document=(enriched_df['total_expenses'] / enriched_df['total_documents']).round(1),
+    share_taxi_toll_parking=(enriched_df['taxi_toll_parking'] / enriched_df['total_expenses']).round(3),
+    share_flight_passages=(enriched_df['flight_passages'] / enriched_df['total_expenses']).round(3),
+    share_office_maintenance=(enriched_df['office_maintenance'] / enriched_df['total_expenses']).round(3),
+    share_fuel_lubricants=(enriched_df['fuel_lubricants'] / enriched_df['total_expenses']).round(3),
+    attendance_rate = (enriched_df['attendance_count'] / max_days).round(3)    
+)
+
+
+parties_to_classify=enriched_df[enriched_df['party_classification'].isnull()]['party'].unique()
+
+parties_to_classify
+
+
+from gpt_classifier import classify_party
+
+party_ideology_map = {party: classify_party(party) for party in parties_to_classify}
+
+# **Step 3: Apply classification to fill missing values**
+df["ideology"] = df["party"].map(party_ideology_map)
+
+party_ideology_map
+
+enriched_df["party_classification"] = enriched_df["party_classification"].fillna(
+    enriched_df["party"].map(party_ideology_map))
+
