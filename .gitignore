@@ -1,11 +1,18 @@
 # Ignore all .csv  and env folders 
-*.csv
+/bronze/*.csv
 
-# keep folders
-!*/
+
 
 # Ienv
 .venv/
 
 # vscode 
-.vscode/
+.vscode
+/.vscode
+
+# keep folders
+!*/
+/data/bronze/dim_deputies.csv
+/data/bronze/fact_attedace.csv
+/data/bronze/fact_propositions.csv
+/data/bronze/fact_expenses.csv
