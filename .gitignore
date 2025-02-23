@@ -17,3 +17,4 @@
 /data/bronze/fact_propositions.csv
 /data/bronze/fact_expenses.csv
 /.vscode
+*.pyc
