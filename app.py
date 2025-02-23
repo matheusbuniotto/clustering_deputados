@@ -123,12 +123,12 @@ if page == "Recommender":
         except Exception as e:
             st.error(f"Internal Error:: {e}")
 
-elif page == "[ TO DO ] Chat LLM":
+elif page == "Chat LLM":
     st.title("[ TO DO ] Chat (LLM) with data")
     st.write("Todo: Precisando implementar algo com langchain +  gpt-4o-mini.")
     
     # Placeholder for chat interface
-    chat_input = st.text_input("Input: ", "")
+    chat_input = st.text_input("In: ", "")
     if chat_input:
         # Placeholder for LLM response
         st.write("TO-DO: add a model with RAG on the dataset")
