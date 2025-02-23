@@ -123,7 +123,7 @@ if page == "Recommender":
         except Exception as e:
             st.error(f"Internal Error:: {e}")
 
-elif page == "Chat with Dataset":
+elif page == "[TODO] Chat with Dataset":
     st.title("Chat with Dataset")
     st.write("This provides a way to chat with the data using gpt-4o-mini.")
     
