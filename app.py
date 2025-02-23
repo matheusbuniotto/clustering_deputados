@@ -26,9 +26,9 @@ def load_markdown(file_path):
 # Streamlit app
 st.title('Deputy Recommender System')
 
-# Sidebar for navigation
+# Sidebar navigation with selectbox
 st.sidebar.title("Navigation")
-page = st.sidebar.radio("Go to", ["Recommender", "Chat with Dataset", "Model Explanation"])
+page = st.sidebar.selectbox("Go to", ["Recommender", "Chat with Dataset", "Model Explanation"])
 
 if page == "Recommender":
     # Dropdown menu for selecting a deputy
@@ -125,13 +125,13 @@ if page == "Recommender":
 
 elif page == "Chat with Dataset":
     st.title("Chat with Dataset")
-    st.write("This page allows you to chat with the dataset using a language model.")
+    st.write("This provides a way to chat with the data using gpt-4o-mini.")
     
     # Placeholder for chat interface
     chat_input = st.text_input("You: ", "")
     if chat_input:
         # Placeholder for LLM response
-        st.write("LLM: This is a placeholder response. Implement the LLM integration here.")
+        st.write("TO-DO: add a model with RAG on the dataset")
 
 elif page == "Model Explanation":
     st.title("Model Explanation")

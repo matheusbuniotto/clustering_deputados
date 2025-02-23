@@ -1,5 +1,4 @@
 # Sobre o Modelo / About the Model
-================================
 
 📌 Introdução / Introduction
 ----------------------------
