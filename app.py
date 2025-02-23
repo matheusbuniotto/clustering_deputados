@@ -12,7 +12,7 @@ from sklearn.preprocessing import StandardScaler
 st.set_page_config(layout="wide")
 
 # Load the deputies data to populate the dropdown menu
-data_path = 'enriched_df.csv'
+data_path = 'data/enriched_df.csv'
 df = pd.read_csv(data_path, encoding='utf-8')
 
 # Initialize the recommender
