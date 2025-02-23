@@ -17,11 +17,18 @@ df = pd.read_csv(data_path, encoding='utf-8')
 # Initialize the recommender
 recommender = DeputyRecommender(data_path)
 
+# Function to load and display the Markdown file
+def load_markdown(file_path):
+    with open(file_path, 'r') as file:
+        content = file.read()
+    st.markdown(content)
+
 # Streamlit app
 st.title('Deputy Recommender System')
 
 # Sidebar for navigation
-page = st.sidebar.selectbox("Choose a page", ["Recommender", "Chat with Dataset"])
+st.sidebar.title("Navigation")
+page = st.sidebar.radio("Go to", ["Recommender", "Chat with Dataset", "Model Explanation"])
 
 if page == "Recommender":
     # Dropdown menu for selecting a deputy
@@ -47,7 +54,7 @@ if page == "Recommender":
             
             with cols[1]:
                 # Create a dashboard view for the main deputy
-                st.subheader("Main Deputy Information for the year 2024")
+                st.subheader("Deputy information for the year 2024")
                 st.write("*Ideology, populist elements (score 0 to 1) and agenda was generated using Zero Shot GPT API to summarize the propositions of a given deputy.")
                 st.write(f"**Name:** {deputy_name}")
                 st.write(f"**ID:** {deputy_id}")
@@ -125,3 +132,7 @@ elif page == "Chat with Dataset":
     if chat_input:
         # Placeholder for LLM response
         st.write("LLM: This is a placeholder response. Implement the LLM integration here.")
+
+elif page == "Model Explanation":
+    st.title("Model Explanation")
+    load_markdown('docs/about_the_model.md')
