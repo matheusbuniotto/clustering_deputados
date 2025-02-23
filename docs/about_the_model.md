@@ -1,96 +1,100 @@
-# Sobre o Modelo / About the Model
+🇬🇧 About the Model
 
-📌 Introdução / Introduction
-----------------------------
+🔎 Intelligent Recommendations for Political Analysis
+DeputyRecommender identifies deputies with similar profiles based on ideology, legislative activity, and resource allocation. A machine learning pipeline processes structured data, assigns feature importance, and calculates similarities using cosine similarity.
 
-O **DeputyRecommender** é um sistema de recomendação desenvolvido para identificar deputados com perfis semelhantes com base em diversas características, incluindo ideologia, classificação partidária, participação em proposições legislativas e utilização de recursos. Ele utiliza aprendizado de máquina para processar os dados e calcular similaridades entre parlamentares.
+To enhance classification accuracy, the GPT API analyzes legislative propositions, extracting:
 
-The **DeputyRecommender** is a recommendation system designed to identify deputies with similar profiles based on various characteristics, including ideology, party classification, participation in legislative proposals, and resource usage. It employs machine learning to process data and compute similarities between representatives.
+✔ Ideological position – from progressive to conservative
+✔ Agenda category – key topics such as economy, social policies, and governance
+✔ Populist elements – a score (0-1) indicating the level of populist appeal
 
-* * *
+For a more complete political landscape, GPT also classifies parties not present in the dataset. The ideological framework follows "Uma Nova Classificação Ideológica dos Partidos Políticos Brasileiros" (Bolognesi et al., 2023) (DOI: 10.1590/dados.2023.66.2.303).
 
-🔍 Estrutura do Modelo / Model Structure
-----------------------------------------
+🔎 How It Works
 
-O modelo segue os seguintes passos principais:
+1️⃣ Data Processing
 
-1.  **Carregamento e limpeza dos dados**
-    
-    *   Substituição de valores infinitos por `NaN`
-    *   Preenchimento de valores ausentes:
-        *   Mediana para colunas numéricas
-        *   Valor mais frequente para colunas categóricas
-2.  **Definição das características**
-    
-    *   As features são categorizadas em três níveis de importância: **Alta**, **Média** e **Baixa**
-    *   Atribuição de pesos para influenciar a similaridade
-3.  **Pré-processamento dos dados**
-    
-    *   Pipeline para normalização de variáveis numéricas
-    *   Codificação One-Hot para variáveis categóricas
-    *   Aplicação de pesos conforme a importância das features
-4.  **Cálculo da similaridade**
-    
-    *   Utilização do **cosine similarity** para medir a proximidade entre deputados
-5.  **Recomendações**
-    
-    *   Identificação dos deputados mais similares com base na matriz de similaridade
-    *   Retorno de informações-chave sobre as semelhanças entre os políticos recomendados
+Infinite values replaced with NaN
+Missing data handled:
+Numerical: filled with the median
+Categorical: filled with the most frequent value
+2️⃣ Feature Engineering
 
-The model follows these main steps:
+Attributes categorized by importance: high, medium, low
+Weights assigned to emphasize key factors in similarity calculations
+3️⃣ Preprocessing
 
-1.  **Data loading and cleaning**
-    
-    *   Replacing infinite values with `NaN`
-    *   Filling missing values:
-        *   Median for numerical columns
-        *   Most frequent value for categorical columns
-2.  **Feature definition**
-    
-    *   Features are categorized into three levels of importance: **High**, **Medium**, and **Low**
-    *   Assigning weights to influence similarity
-3.  **Data preprocessing**
-    
-    *   Pipeline for numerical variable normalization
-    *   One-Hot Encoding for categorical variables
-    *   Applying weights according to feature importance
-4.  **Similarity calculation**
-    
-    *   Using **cosine similarity** to measure proximity between deputies
-5.  **Recommendations**
-    
-    *   Identifying the most similar deputies based on the similarity matrix
-    *   Returning key insights on similarities among recommended politicians
+Standardization for numerical data
+One-Hot Encoding for categorical values
+Feature weighting to balance impact
+4️⃣ Similarity Calculation
 
-* * *
+Cosine similarity measures proximity between deputies
+Sparse matrix optimization ensures efficiency
+5️⃣ Personalized Recommendations
 
-🛠️ Tecnologias e Bibliotecas / Technologies and Libraries
-----------------------------------------------------------
+Identifies deputies with the most similar profiles
+Highlights key similarities for better interpretability
+⚙ Technology Stack
 
-O sistema foi desenvolvido utilizando as seguintes bibliotecas:
+🛠 pandas, numpy → data handling
+🛠 scikit-learn → preprocessing & similarity analysis
+🛠 scipy.sparse → optimized matrix operations
+🛠 joblib → model persistence
+🛠 GPT API → proposition & party classification
+🛠 Langchain → using LLM APIs 
 
-*   `pandas` e `numpy` para manipulação de dados
-*   `scikit-learn` para pré-processamento, normalização e cálculo de similaridade
-*   `scipy.sparse` para lidar com matrizes esparsas
-*   `joblib` para persistência do modelo
+🎯 Purpose
+A powerful tool for identifying deputies with similar legislative behaviors. Essential for political analysis, policymaking insights, and strategic decision-making.
 
-The system was developed using the following libraries:
+🇧🇷 Sobre o Modelo
 
-*   `pandas` and `numpy` for data manipulation
-*   `scikit-learn` for preprocessing, normalization, and similarity calculation
-*   `scipy.sparse` for handling sparse matrices
-*   `joblib` for model persistence
+🔎 Recomendações Inteligentes para Análise Política
+DeputyRecommender identifica deputados com perfis semelhantes com base em ideologia, atividade legislativa e uso de recursos. Um pipeline de aprendizado de máquina processa os dados estruturados, atribui pesos às características e calcula similaridades usando cosseno de similaridade.
 
-* * *
+Para aprimorar a precisão da classificação, a API do GPT analisa proposições legislativas e extrai:
 
-🎯 Objetivo / Goal
-------------------
+✔ Posição ideológica – de progressista a conservador
+✔ Categoria da agenda – principais temas como economia, políticas sociais e governança
+✔ Elementos populistas – uma pontuação (0-1) que indica o apelo populista das proposições
 
-O objetivo do **DeputyRecommender** é fornecer recomendações precisas e interpretáveis para identificar deputados similares, auxiliando análises políticas e comparações entre legisladores.
+Para um panorama político mais completo, o GPT também classifica partidos que não estavam no conjunto de dados original. A base ideológica segue "Uma Nova Classificação Ideológica dos Partidos Políticos Brasileiros" (Bolognesi et al., 2023) (DOI: 10.1590/dados.2023.66.2.303).
 
-The goal of **DeputyRecommender** is to provide accurate and interpretable recommendations to identify similar deputies, supporting political analysis and comparisons among legislators.
+🔎 Como Funciona
 
-* * *
+1️⃣ Processamento de Dados
 
-Se precisar de ajustes ou quiser incluir mais detalhes, me avise!
+Valores infinitos substituídos por NaN
+Tratamento de valores ausentes:
+Numéricos: preenchidos com a mediana
+Categóricos: preenchidos com o valor mais comum
+2️⃣ Engenharia de Atributos
 
+Características categorizadas por importância: alta, média, baixa
+Pesos atribuídos para destacar os fatores mais relevantes na similaridade
+3️⃣ Pré-processamento
+
+Padronização de valores numéricos
+One-Hot Encoding para variáveis categóricas
+Aplicação de pesos para balanceamento
+4️⃣ Cálculo de Similaridade
+
+Medida de proximidade entre deputados com cosseno de similaridade
+Matriz esparsa otimizada para eficiência
+5️⃣ Recomendações Personalizadas
+
+Identifica deputados com perfis mais semelhantes
+Destaca as principais semelhanças para maior interpretabilidade
+⚙ Tecnologia Utilizada
+
+🛠 pandas, numpy → manipulação de dados
+🛠 scikit-learn → pré-processamento e análise de similaridade
+🛠 scipy.sparse → operações matriciais otimizadas
+🛠 joblib → persistência do modelo
+🛠 API do GPT → classificação de proposições e partidos
+🛠 Langchain → classificação de proposições e partidos com GPT
+
+
+🎯 Objetivo
+Uma ferramenta poderosa para identificar deputados com comportamentos legislativos semelhantes. Essencial para análise política, insights em formulação de políticas e tomada de decisão estratégica.
