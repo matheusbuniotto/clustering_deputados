@@ -3,7 +3,7 @@
 SELECT 
     deps.deputy_id,
     deps.name,
-    deps.party,
+    UPPER(deps.party) AS party,
     parties.posicao_ideologica AS party_idelogical_position,
     parties.mediana AS party_score_ideology_median
 FROM deputies_db.bronze.dim_deputies AS deps
