@@ -1,5 +1,4 @@
 <div align="left" style="position: relative;">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>CLUSTERING_DEPUTADOS</h1>
 <p align="left">
 	<em>Discover similarities between deputies in 2024!</em>
