@@ -5,7 +5,6 @@
 	<em>Discover similarities between deputies in 2024!</em>
 </p>
 <p align="left">
-	<img src="https://img.shields.io/github/license/matheusbuniotto/clustering_deputados?style=default&logo=opensourceinitiative&logoColor=white&color=6b00ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/matheusbuniotto/clustering_deputados?style=default&logo=git&logoColor=white&color=6b00ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/matheusbuniotto/clustering_deputados?style=default&color=6b00ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/matheusbuniotto/clustering_deputados?style=default&color=6b00ff" alt="repo-language-count">
