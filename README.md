@@ -33,6 +33,9 @@
 
 This project provide a way to compare political deputies using AI and ML. It preprocesses legislative data to identify similarities among deputies, offering personalized recommendations of similarity through an intuitive interface. This tool is part of a personal project for FIAP Machine Learing Engineer Specialization, and aim to provide voters a way  to seek deeper insights into deputies' alignments and legislative behaviors, enhancing transparency and informed decision-making in the political landscape. The project uses the 2024 data from the goverment API and webscrape relevant date (attendance) and enhance this data usign AI (GPT + Langchain). While the project uses 2024, if running locally, you can choose the range or a given year to run this analysis and pull the data from the API using the provided script.
 
+## Project Overview
+<img src="https://raw.githubusercontent.com/matheusbuniotto/clustering_deputados/refs/heads/main/docs/flowchart.jpg" alt="flowchart">
+
 ---
 
 ## 👾 Features
