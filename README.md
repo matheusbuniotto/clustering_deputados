@@ -36,7 +36,8 @@ This project provide a way to compare political deputies using AI and ML. It pre
 ### Overview image
 
 <img src="https://raw.githubusercontent.com/matheusbuniotto/clustering_deputados/refs/heads/main/docs/arch-flowchart.jpg" alt="flowchart">
-### S3 
+
+### S3
 
 ![image](https://github.com/user-attachments/assets/e21f95b0-5954-4325-9027-8366457b44a6)
 
